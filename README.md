@@ -25,13 +25,13 @@ Sprint | Previsão | Status|
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Onwer | Noemy Siqueira  |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noemy-mtfasi-533975264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-| Scrum Master   | Guilherme Carvalho     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-anthony-853606287/) | Scrum Team  | Karen Cecilía      |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karen-cec%C3%ADlia-morais-57900a173) [
-|  Scrum Team  | Caue Silva |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caue-santos-a01228288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-|  Scrum Team  | Miriele Santos           |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miriele-santos-7597a01a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [
-|  Scrum Team  | Yago Martins     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-anthony-853606287|
+|    Função     |                 Nome                                  |                                                                                                                         LinkedIn                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Onwer |   Noemy Siqueira  |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noemy-mtfasi-533975264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+| Scrum Master   |   Guilherme Carvalho     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-anthony-853606287/) | Scrum Team  | Karen Cecilía      |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karen-cec%C3%ADlia-morais-57900a173) [
+|  Scrum Team  |   Caue Silva |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caue-santos-a01228288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+|  Scrum Team  |   Miriele Santos           |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miriele-santos-7597a01a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [
+|  Scrum Team  |   Yago Martins     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-anthony-853606287|
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
@@ -44,10 +44,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- >Screenshot_20240906-202524.png
-  
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+![Screenshot_20240906-202524](https://github.com/user-attachments/assets/e7ebc23b-e9dc-40a0-9a44-b621157e5598)
 
 # Sprints
 
