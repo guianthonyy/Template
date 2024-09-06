@@ -44,7 +44,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ >Screenshot_20240906-202524.png
   
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
