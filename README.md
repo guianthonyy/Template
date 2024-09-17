@@ -17,10 +17,10 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 Sprint | Previsão | Status| 
 |------|--------|------|
 |Kick Off | 30/08/2024 |CONCLUÍDO | 
-|SPRINT 01| 27/09 | EM ANDAMENTO |
-|SPRINT 02| 08/11 | EM ANDAMENTO  |
-|SPRINT 03| 29/11 | EM ANDAMENTO |
-|Feira de Soluções| 12/12 | EM ANDAMENTO |
+|SPRINT 01| 27/09/2024 | EM ANDAMENTO |
+|SPRINT 02| 08/11/2024 | EM ANDAMENTO  |
+|SPRINT 03| 29/11/2024 | EM ANDAMENTO |
+|Feira de Soluções| 12/12/2024 | EM ANDAMENTO |
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Equipe
