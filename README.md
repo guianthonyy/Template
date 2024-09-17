@@ -5,10 +5,8 @@
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#Projeto(API))
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [RELATÓRIO]
 
 
 # Projeto (API) 
@@ -47,117 +45,29 @@ Sprint | Previsão | Status|
 |SPRINT 03| 29/11/2024 | EM ANDAMENTO |
 |Feira de Soluções| 12/12/2024 | EM ANDAMENTO |
 
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-# Requisitos
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
   
 # Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
-
-
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Relatório;
+- [x] Aprendizado SQL;
+- [x] Tratamento dos dados;
+- [x] Documentação ;
+- [x] Desenvolvimento Python;
+- [x] Aprendizado Python;
+- [x] Início Dashboard;
+- [x] Validar e testar arquivo CSV resultante;
+- [x] Testar integridade e precisão dos dados importados;
+- [x] Criar visualização BI;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Gerar e adicionar a coluna de quilometragem no banco de dados;
+- [ ] Implementar métodos de otimização de rotas;
+- [ ] Desenvolvimento do banco de dados;
+- [ ] Validar e ajustar scripts SQL conforme necessários;
+- [ ] Implementar e validar visualizações em python;
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
-
-# Competências desenvolvidas
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
 
 
 
