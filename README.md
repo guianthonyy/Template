@@ -74,6 +74,19 @@ Sprint | Previsão | Status|
 - [ ] Implementar e validar visualizações em python;
       
 
+# Regras de Negócio
+
+> Requisitos funcionais 
+- Organizar a base de dados  
+- Aplicar e desenvolver dados em SQL
+- Criar Dashboard para análise e aplicar metodo de otimização de rotas
+- Desenvolvimento dos dados em Python
+
+> Requisitos não funcionais
+- Usar software de gerenciamento (Jira Software)
+- Metodologia ágil (SCRUM)
+- Power BI / GitHub / Pyhthon / SQL / Slack
+
 # Competências desenvolvidas
 
 ## Hard Skill
