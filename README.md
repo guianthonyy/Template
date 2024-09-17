@@ -14,14 +14,6 @@
 # Projeto (API) 
 Descrição da demanda realizada pelo parceiro acadêmico.
 
-Sprint | Previsão | Status| 
-|------|--------|------|
-|Kick Off | 30/08/2024 |CONCLUÍDO | 
-|SPRINT 01| 27/09/2024 | EM ANDAMENTO |
-|SPRINT 02| 08/11/2024 | EM ANDAMENTO  |
-|SPRINT 03| 29/11/2024 | EM ANDAMENTO |
-|Feira de Soluções| 12/12/2024 | EM ANDAMENTO |
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Equipe
 |    Função     |                 Nome                                  |                                                                                                                         LinkedIn                                                                                                                                                      |
@@ -47,14 +39,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| 
-|00 | dd/mm/aaaa | concluido| 
-|01|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+Sprint | Previsão | Status| 
+|------|--------|------|
+|Kick Off | 30/08/2024 |CONCLUÍDO | 
+|SPRINT 01| 27/09/2024 | EM ANDAMENTO |
+|SPRINT 02| 08/11/2024 | EM ANDAMENTO  |
+|SPRINT 03| 29/11/2024 | EM ANDAMENTO |
+|Feira de Soluções| 12/12/2024 | EM ANDAMENTO |
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
