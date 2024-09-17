@@ -10,7 +10,7 @@
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+Desenvolver um sistema estruturado para gerenciar sobre veículos, rotas e cargas, aplicando técnicas de otimização para reduzir custos e melhorar a eficiência das rotas de distribuição, E um Dashboard onde possa visualizar e monitorar dados de desempenho.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Equipe
