@@ -15,7 +15,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Equipe
 
-![IMG-20240913-WA0062.jpg] (https://github.com/guianthonyy/Template.git)
+![IMG-20240913-WA0062.jpg] (https://github.com/user-attachments/assets/e7ebc23b-e9dc-40a0-9a44-b621157e5598)
 
 
 |    Função     |                 Nome                                  |                                                                                                                         LinkedIn                                                                                                                                                      |
