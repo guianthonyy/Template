@@ -75,8 +75,7 @@ Sprint | Previsão | Status|
 - [ ] Implementar e validar visualizações em python;
       
 
-# Regras de Negócio
-
+#Regras de Negócio
 > Requisitos funcionais 
 - Organizar a base de dados  
 - Aplicar e desenvolver dados em SQL
