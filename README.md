@@ -6,6 +6,7 @@
 * [Objetivo do Projeto](#Projeto(API))
 * [Sprints](#Sprints)
 * [Backlog do produto](#Backlog-do-produto)
+* [Regras de Negócio] (# Regras de Negócio)
 * [Relatório]
 
 
