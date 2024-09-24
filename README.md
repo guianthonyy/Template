@@ -54,7 +54,7 @@ Sprint | Previsão | Status|
   
 # Backlog do produto
 
-![template/Captura de tela 2024-09-24 191122.png](https://github.com/guianthonyy/Template/blob/61f3b958701f4d5ea141cefda4d890ec687311cb/IMG-20240913-WA0062.jpg)
+![template/Captura de tela 2024-09-24 191122.png](https://github.com/guianthonyy/Template/blob/6623719c64387ed8669af976ccdd610eb3e7c18c/Captura%20de%20tela%202024-09-24%20191122.png)
 ## Sprint 1. Concepção
 - [x] Relatório;
 - [x] Aprendizado SQL;
