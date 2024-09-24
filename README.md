@@ -56,7 +56,7 @@ Sprint | Previsão | Status|
 
 ![template/Captura de tela 2024-09-24 191122.png](https://github.com/guianthonyy/Template/blob/6623719c64387ed8669af976ccdd610eb3e7c18c/Captura%20de%20tela%202024-09-24%20191122.png)
 
-!(https://github.com/guianthonyy/Template/blob/84990a9fb392c6b9f520ee4c9cddcbafbb51c8e2/Captura%20de%20tela%202024-09-24%20191100.png)
+![Captura de tela 2024-09-24 191100.png](https://github.com/guianthonyy/Template/blob/84990a9fb392c6b9f520ee4c9cddcbafbb51c8e2/Captura%20de%20tela%202024-09-24%20191100.png)
 ## Sprint 1. Concepção
 - [x] Relatório;
 - [x] Aprendizado SQL;
