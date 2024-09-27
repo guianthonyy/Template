@@ -46,7 +46,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Sprint | Previsão | Status| 
 |------|--------|------|
 |Kick Off | 30/08/2024 |CONCLUÍDO | 
-|SPRINT 01| 27/09/2024 | EM ANDAMENTO |
+| Backlog+GitHub |  27/09/2024 |  EM ANDAMENTO | 
+|SPRINT 01| 18/10/2024 | EM ANDAMENTO |
 |SPRINT 02| 08/11/2024 | EM ANDAMENTO  |
 |SPRINT 03| 29/11/2024 | EM ANDAMENTO |
 |Feira de Soluções| 12/12/2024 | EM ANDAMENTO |
