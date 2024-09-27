@@ -7,7 +7,7 @@
 * [Sprints](#Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Regras de Negócio](#-Regras-de-Negócio)
-* [Relatório]
+* [Relatório](#Relatório)
 
 
 # Projeto (API) 
@@ -80,7 +80,10 @@ Sprint | Previsão | Status|
 
 
 ##Relatório
-![DOC-20240926-WA0067..pdf]
+
+![template/DOC-20240926-WA0067..pdf](https://github.com/guianthonyy/Template/blob/7b3ba0565955fedb71b3ee68e420a1ee281cb526/DOC-20240926-WA0067..pdf)
+
+
 # Regras de Negócio
 > Requisitos funcionais 
 - Organizar a base de dados  
