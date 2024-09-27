@@ -14,7 +14,7 @@
 Desenvolver um sistema estruturado para gerenciar sobre veículos, rotas e cargas, aplicando técnicas de otimização para reduzir custos e melhorar a eficiência das rotas de distribuição, E um Dashboard onde possa visualizar e monitorar dados de desempenho.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Equipe
+# KND Equipe
 
 ![IMG-20240913-WA0062.jpg](https://github.com/guianthonyy/Template/blob/61f3b958701f4d5ea141cefda4d890ec687311cb/IMG-20240913-WA0062.jpg)
 
