@@ -46,7 +46,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Sprint | Previsão | Status| 
 |------|--------|------|
 |Kick Off | 30/08/2024 |CONCLUÍDO | 
-| Backlog+GitHub |  27/09/2024 |  EM ANDAMENTO | 
+| Backlog+GitHub |  27/09/2024 |  CONCLUÍDO | 
 |SPRINT 01| 18/10/2024 | EM ANDAMENTO |
 |SPRINT 02| 08/11/2024 | EM ANDAMENTO  |
 |SPRINT 03| 29/11/2024 | EM ANDAMENTO |
@@ -60,12 +60,8 @@ Sprint | Previsão | Status|
 ![template/Captura de tela 2024-09-24 191122.png](https://github.com/guianthonyy/Template/blob/6623719c64387ed8669af976ccdd610eb3e7c18c/Captura%20de%20tela%202024-09-24%20191122.png)
 
 ## Sprint 1. Concepção
-- [x] Relatório;
-- [x] Aprendizado SQL;
 - [x] Tratamento dos dados;
-- [x] Documentação ;
 - [x] Desenvolvimento Python;
-- [x] Aprendizado Python;
 - [x] Início Dashboard;
 - [x] Validar e testar arquivo CSV resultante;
 - [x] Testar integridade e precisão dos dados importados;
@@ -77,7 +73,16 @@ Sprint | Previsão | Status|
 - [ ] Desenvolvimento do banco de dados;
 - [ ] Validar e ajustar scripts SQL conforme necessários;
 - [ ] Implementar e validar visualizações em python;
-      
+- [ ] Desenvolvimento do banco de dados
+- [ ] Codificação do Python
+- [ ] Conectar SQL ao Power BI
+
+
+## Sprint 3. Desenvolvimento do Projeto
+- [ ] Visualização dos graficos 
+- [ ] Alterar o valor FOB para CIF
+- [ ] Métodos de minimização e maximização de transporte
+- [ ] Criar tabela CIF
 
 
 # Relatório
