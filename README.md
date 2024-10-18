@@ -8,6 +8,7 @@
 * [Backlog do produto](#Backlog-do-produto)
 * [Regras de Negócio](#-Regras-de-Negócio)
 * [Relatório](#Relatório)
+* [Dashboard](#Dashboard)
 
 
 # Projeto (API) 
