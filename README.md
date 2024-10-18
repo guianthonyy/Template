@@ -82,7 +82,7 @@ Sprint | Previsão | Status|
 - [ ] Codificação do Python
 
 # Dashboard
-![https://github.com/guianthonyy/Template/blob/156e042fb1ec6aac8e0f2173f409e582e9e659c9/WhatsApp%20Image%202024-10-18%20at%2019.56.26.jpeg
+![template/WhatsApp Image 2024-10-18 at 19.56.26.jpeg](https://github.com/guianthonyy/Template/blob/156e042fb1ec6aac8e0f2173f409e582e9e659c9/WhatsApp%20Image%202024-10-18%20at%2019.56.26.jpeg)
 
 
 # Relatório
