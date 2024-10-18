@@ -88,8 +88,7 @@ Sprint | Previsão | Status|
 
 # Relatório
 
-![template/Relatorio Sprint 1 KND.docx](https://github.com/guianthonyy/Template/blob/7b3ba0565955fedb71b3ee68e420a1ee281cb526/DOC-20240926-WA0067..pdf)
-
+![template/Relatorio Sprint 1 KND.docx](https://github.com/guianthonyy/Template/blob/6581694ca32a8f4318ba7145a2e17f3288db2ae2/Relatorio%20Sprint%201%20KND.docx)
 
 # Regras de Negócio
 > Requisitos funcionais 
