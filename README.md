@@ -55,9 +55,6 @@ Sprint | Previsão | Status|
   
 # Backlog do produto
 
-![Captura de tela 2024-09-24 191100.png](https://github.com/guianthonyy/Template/blob/84990a9fb392c6b9f520ee4c9cddcbafbb51c8e2/Captura%20de%20tela%202024-09-24%20191100.png)
-
-![template/Captura de tela 2024-09-24 191122.png](https://github.com/guianthonyy/Template/blob/6623719c64387ed8669af976ccdd610eb3e7c18c/Captura%20de%20tela%202024-09-24%20191122.png)
 
 ## Sprint 1. Concepção
 - [x] Tratamento dos dados;
@@ -66,15 +63,14 @@ Sprint | Previsão | Status|
 - [x] Validar e testar arquivo CSV resultante;
 - [x] Testar integridade e precisão dos dados importados;
 - [x] Criar visualização BI;
+- [x] Criar tabela de CIF
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Gerar e adicionar a coluna de quilometragem no banco de dados;
 - [ ] Implementar métodos de otimização de rotas;
 - [ ] Desenvolvimento do banco de dados;
 - [ ] Validar e ajustar scripts SQL conforme necessários;
-- [ ] Implementar e validar visualizações em python;
 - [ ] Desenvolvimento do banco de dados
-- [ ] Codificação do Python
 - [ ] Conectar SQL ao Power BI
 
 
@@ -82,7 +78,11 @@ Sprint | Previsão | Status|
 - [ ] Visualização dos graficos 
 - [ ] Alterar o valor FOB para CIF
 - [ ] Métodos de minimização e maximização de transporte
-- [ ] Criar tabela CIF
+- [ ] Implementar e validar visualizações do python
+- [ ] Codificação do Python
+
+# Dashboard
+
 
 
 # Relatório
