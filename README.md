@@ -48,7 +48,7 @@ Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 30/08/2024 |CONCLUÍDO | 
 | Backlog+GitHub |  27/09/2024 |  CONCLUÍDO | 
-|SPRINT 01| 18/10/2024 | EM ANDAMENTO |
+|SPRINT 01| 18/10/2024 | CONCLUÍDO |
 |SPRINT 02| 08/11/2024 | EM ANDAMENTO  |
 |SPRINT 03| 29/11/2024 | EM ANDAMENTO |
 |Feira de Soluções| 12/12/2024 | EM ANDAMENTO |
@@ -65,22 +65,32 @@ Sprint | Previsão | Status|
 - [x] Testar integridade e precisão dos dados importados;
 - [x] Criar visualização BI;
 - [x] Criar tabela de CIF
+- [x] Conectar SQL ao Power BI
 
 ## Sprint 2. Desenvolvimento do Projeto
+- [ ] Visualização dos graficos 
 - [ ] Gerar e adicionar a coluna de quilometragem no banco de dados;
 - [ ] Implementar métodos de otimização de rotas;
-- [ ] Desenvolvimento do banco de dados;
 - [ ] Validar e ajustar scripts SQL conforme necessários;
 - [ ] Desenvolvimento do banco de dados
-- [ ] Conectar SQL ao Power BI
+- [ ] Conectar Python ao Power BI
+- [ ] Obter informações sobre a demanda das rotas
 
 
 ## Sprint 3. Desenvolvimento do Projeto
-- [ ] Visualização dos graficos 
 - [ ] Alterar o valor FOB para CIF
 - [ ] Métodos de minimização e maximização de transporte
 - [ ] Implementar e validar visualizações do python
 - [ ] Codificação do Python
+- [ ] Obter informações sobre a demanda das rotas
+- [ ]  Identificar variáveis-chave que impactam a produtividade e custos das rotas.
+
+
+## Sprint 4. Finalização do Projeto
+- [ ] Comparar resultados dos modelos e selecionar o mais eficaz
+- [ ] Verifique a legitimidade dos dados e sua coerência
+- [ ] Implementar ajustes nas rotas com base nos resultados da otimização
+
 
 # Dashboard
 ![template/WhatsApp Image 2024-10-18 at 19.56.26.jpeg](https://github.com/guianthonyy/Template/blob/156e042fb1ec6aac8e0f2173f409e582e9e659c9/WhatsApp%20Image%202024-10-18%20at%2019.56.26.jpeg)
