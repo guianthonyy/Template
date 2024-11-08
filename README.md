@@ -98,8 +98,7 @@ Sprint | Previsão | Status|
 
 # Relatório
 
-![template/Relatorio Sprint 1 KND.docx](https://github.com/guianthonyy/Template/blob/6581694ca32a8f4318ba7145a2e17f3288db2ae2/Relatorio%20Sprint%201%20KND.docx)
-
+![template/Relatorio Sprint 1 KND.docx](https://github.com/guianthonyy/Template/blob/9e3195e56ad7bf51a2862c719861c5cca902f703/Relatorio%20Sprint%201%20KND.docx)
 # Regras de Negócio
 > Requisitos funcionais 
 - Organizar a base de dados  
