@@ -93,8 +93,7 @@ Sprint | Previsão | Status|
 
 
 # Dashboard
- <a href="https://github.com/seu-usuario/seu-repositorio/raw/main/seu-arquivo.pdf" class="button" target="_blank">
-![template/api 3.pbix](https://github.com/guianthonyy/Template/blob/d97f3718e083cb920dad34f36044af230b7fac2e/api%203.pbix)
+![template/api 3.pbix](https://github.com/guianthonyy/Template/blob/9e3195e56ad7bf51a2862c719861c5cca902f703/Relatorio%20Sprint%201%20KND.docx)
 ![template/WhatsApp Image 2024-11-08 at 20.31.03.jpeg](https://github.com/guianthonyy/Template/blob/a6870678cb42fa1ed34144daf06ef3a8d97bbe52/WhatsApp%20Image%202024-11-08%20at%2020.31.03.jpeg)
 ![template/WhatsApp Image 2024-11-08 at 20.31.03 (1).jpeg](https://github.com/guianthonyy/Template/blob/3c7983b63535e0c29ac2b123818ee0f8a0da53d4/WhatsApp%20Image%202024-11-08%20at%2020.31.03%20(1).jpeg)
 ![template/WhatsApp Image 2024-11-08 at 20.31.02.jpeg](https://github.com/guianthonyy/Template/blob/5e825edafeab1de65b6f050fa88e0ac85c91d755/WhatsApp%20Image%202024-11-08%20at%2020.31.02.jpeg)
@@ -102,7 +101,8 @@ Sprint | Previsão | Status|
 
 # Relatório
 
-![template/Relatorio Sprint 1 KND.docx](https://github.com/guianthonyy/Template/blob/9e3195e56ad7bf51a2862c719861c5cca902f703/Relatorio%20Sprint%201%20KND.docx)
+
+
 # Regras de Negócio
 > Requisitos funcionais 
 - Organizar a base de dados  
