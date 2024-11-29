@@ -103,6 +103,9 @@ https://github.com/guianthonyy/Template/blob/84926c3940da29ec4b06b3693179ee8a32d
 
 # PYTHON
 ![WhatsApp Image 2024-11-29 at 19.33.58.jpeg](https://github.com/guianthonyy/Template/blob/75ff35cb650b635bc3c3c60df208587d0a51b58b/WhatsApp%20Image%202024-11-29%20at%2019.33.58.jpeg)
+![WhatsApp Image 2024-11-29 at 19.34.24.jpeg](https://github.com/guianthonyy/Template/blob/dfb4089d6c8741be24f6abc1e9da68ba62394420/WhatsApp%20Image%202024-11-29%20at%2019.34.24.jpeg)
+![WhatsApp Image 2024-11-29 at 19.35.05.jpeg](https://github.com/guianthonyy/Template/blob/68241ed24768562fe8d364ce07eec755c5fb9443/WhatsApp%20Image%202024-11-29%20at%2019.35.05.jpeg)
+![WhatsApp Image 2024-11-29 at 19.35.37.jpeg](https://github.com/guianthonyy/Template/blob/bec6234f8c5c6b9c1d792602155fa90b50d4393c/WhatsApp%20Image%202024-11-29%20at%2019.35.37.jpeg)
 
 # Relatório
 ![Relatorio Sprint 1 KND.docx]([https://github.com/guianthonyy/Template/blob/430250f5260f3c6082150c3126ec8c00d3de833f/Relatorio%20Sprint%201%20KND.docx)
