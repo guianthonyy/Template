@@ -90,6 +90,8 @@ Sprint | Previsão | Status|
 - [ ] Comparar resultados dos modelos e selecionar o mais eficaz
 - [ ] Verifique a legitimidade dos dados e sua coerência
 - [ ] Implementar ajustes nas rotas com base nos resultados da otimização
+- [ ] Análise de eficiência do modelo de transporte e feedback
+- [ ] Automatização de relatórios no Power BI
 
 
 # Dashboard
