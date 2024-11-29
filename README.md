@@ -49,7 +49,7 @@ Sprint | Previsão | Status|
 |Kick Off | 30/08/2024 |CONCLUÍDO | 
 | Backlog+GitHub |  27/09/2024 |  CONCLUÍDO | 
 |SPRINT 01| 18/10/2024 | CONCLUÍDO |
-|SPRINT 02| 08/11/2024 | EM ANDAMENTO  |
+|SPRINT 02| 08/11/2024 | CONCLUÍDO  |
 |SPRINT 03| 29/11/2024 | EM ANDAMENTO |
 |Feira de Soluções| 12/12/2024 | EM ANDAMENTO |
 
@@ -98,8 +98,8 @@ Sprint | Previsão | Status|
 
 ![template/Captura de tela 2024-11-29 190803.png](
 https://github.com/guianthonyy/Template/blob/84926c3940da29ec4b06b3693179ee8a32d215b8/Captura%20de%20tela%202024-11-29%20190803.png)
-![template/WhatsApp Image 2024-11-08 at 20.31.03 (1).jpeg](https://github.com/guianthonyy/Template/blob/3c7983b63535e0c29ac2b123818ee0f8a0da53d4/WhatsApp%20Image%202024-11-08%20at%2020.31.03%20(1).jpeg)
-![template/WhatsApp Image 2024-11-08 at 20.31.02.jpeg](https://github.com/guianthonyy/Template/blob/5e825edafeab1de65b6f050fa88e0ac85c91d755/WhatsApp%20Image%202024-11-08%20at%2020.31.02.jpeg)
+![template/333.png](https://github.com/guianthonyy/Template/blob/2d034c3339b557e3d9a453bfc8003708db06b781/222.png)
+![template/333.png](https://github.com/guianthonyy/Template/blob/2d034c3339b557e3d9a453bfc8003708db06b781/333.png)
 
 
 # Relatório
