@@ -102,7 +102,7 @@ Sprint | Previsão | Status|
 
 
 # Relatório
-
+![Relatorio Sprint 1 KND.docx]([https://github.com/guianthonyy/Template/blob/430250f5260f3c6082150c3126ec8c00d3de833f/Relatorio%20Sprint%201%20KND.docx)
 
 
 # Regras de Negócio
